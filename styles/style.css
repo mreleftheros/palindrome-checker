@@ -67,7 +67,7 @@ body {
 .container__result.success {
   color: lime;
 }
-.container__result.fail {
+.container__result.error {
   color: #ff1100;
 }
 .container__result {
